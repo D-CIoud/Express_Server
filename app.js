@@ -15,7 +15,7 @@ app.get('/',(req, res) => {
 
 //Respondiendo texto - localhost:3000/launchx
 app.get('/launchx',(req, res) => {
-    res.send('Bienvenidos a LaunchX!')
+    res.send('Bienvenidos a LaunchX :)!')
 })
 
 // Con esto inicializamos la app
